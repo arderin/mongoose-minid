@@ -5,7 +5,7 @@
     "name": "Viktor Kirilov",
     "email": "deepsybg@gmail.com"
   },
-  "version": "1.1.1",
+  "version": "1.1.2",
   "main": "./index.js",
   "directories": {
     "lib": "."
@@ -19,7 +19,7 @@
     "shortid"
   ],
   "peerDependencies": {
-    "mongoose": "*"
+    "mongoose": "5.x"
   },
   "bugs": {
     "url": "https://github.com/deepsyx/mongoose-minid/issues"
